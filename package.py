@@ -25,3 +25,6 @@ with ZipFile(ZIP_NAME, 'w', ZIP_DEFLATED) as zipfile:
 
             zipfile.write(path, join(NAME, path))
 print('Created: ', ZIP_NAME)
+
+
+# wangfulai git test Step3
